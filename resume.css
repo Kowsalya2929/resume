@@ -1,0 +1,17 @@
+*{
+    font-family: sans-serif;
+}
+#kow{
+    text-decoration: none;
+}
+
+body{
+    background-color:rgb(208, 229, 241);
+}
+p{
+    font-size: 150%;
+}
+h3{
+    background-color: antiquewhite;
+    text-align: center;
+}
